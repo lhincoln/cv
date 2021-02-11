@@ -1,2 +1,2 @@
 # cv
-my cv :)
+CV usando somente HTML5.
